@@ -1,10 +1,9 @@
 
 <!-- ### 欢迎来到 👋 -->
 
-<h1 align="center">欢迎来到前端嚣张农民GitHub主页👋</h1>
+<h1 align="center">欢迎来到Reese Leo GitHub主页👋</h1>
 
 <!--
-**linweiqian/linweiqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reese-Leo&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://linweiqian.github.io/linweiqianBlog/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://linweiqian.github.io/linweiqianBlog/)
@@ -63,8 +62,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 🔥 My projects:
 -----------------------
-个人博客hexo：https://lin-xiuer.gitee.io/
-个人博客Docute：https://linweiqian.github.io/linweiqianBlog/
+个人博客hexo：
+个人博客Docute：
 
 
 🔥 My Skill Set:
